@@ -194,7 +194,7 @@ a:hover,a:active,a:focus{
 /////////////////////////////////////////////////////////////////////*/
 
 header{
-	background: url(../images/_uxm_bg_3.jpg) no-repeat;
+	background: url(../images/uxm_bg_3.jpg) no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	/*background-position: 50% -50px;*/
@@ -374,7 +374,7 @@ header{
 #portfolio {
     padding: 80px 0px 0px 0px;
     background-color: rgba(17,17,17,0.97);
-		/*background: url(../images/_uxm_bg_3.jpg) repeat;*/
+		/*background: url(../images/uxm_bg_3.jpg) repeat;*/
 }
 
 .port {
@@ -919,7 +919,7 @@ footer ol, ul {
 
 	header{
     background-color: black;
-		background: url(../images/_uxm_bg_3.jpg) no-repeat;
+		background: url(../images/uxm_bg_3.jpg) no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: 50%;
